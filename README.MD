@@ -1,4 +1,4 @@
-#XML Data Improver Tool
+# XML Data Improver Tool
 
 This Python script is designed to parse and modify an XML file with programs for CNC mashine. The main functionality includes:
 * Modifying Specific Angle Values: Allows the user to update all instances of specific angle nodes (ANGL and ANGR) with new values.
